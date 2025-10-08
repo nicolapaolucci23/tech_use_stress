@@ -12,4 +12,15 @@ Progetto mini su Dataset Kaggle scaricabile a questo link https://www.kaggle.com
 Il Dataset approfondisce altre attività e potenzialmente può mostrare ulteriori elementi che influenzano ansia, depressione, qualità del sonno.
     Nei prossimi progetti prevedo di utilizzarlo per estrapolare informazioni più dettagliate
 
+
+AGGIORNAMENTO DEL 8/10
+
+    -Ho sperimentato con funzioni di aggregazione, facendo delle medie.
+    -Ho creato una funzione per ricreare una sorta di CASE WHEN di SQL, creando una colonna sulla base della media del livello di stress
+    -I grafici sono sempre simili perchè so fare solo quelli per ora
+
+Obiettivi prossimi:
+        - Fare grafici diversi
+        - Sperimentare con grafici interattivi (Plotly)
+        
     
